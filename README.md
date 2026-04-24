@@ -22,7 +22,7 @@ Over the past several years, PAL has published several high-profile papers, incl
 - FIDO UAF
 - SecureDNA
 - C2PA
-And is currently in progress on multiple additional research projects.
+And is currently in progress on multiple additional research projects. <br />
 
 Discord link <br />
 Schej link? <br />
@@ -36,7 +36,7 @@ He has been a member of the Protocol Analysis Lab for approximately two years, a
 
 Contacts: <br />
 &nbsp; &nbsp; Discord: saikmat <br />
-&nbsp; &nbsp; Email: smatuku1@umbc.edu <br />
+&nbsp; &nbsp; Email: smatuku1 at umbc dot edu <br />
 
 
 DeMarko Fulcher has graduated from UMBC, with a B.S. in Mathematics, he is currently pursuing a M.S. in Computer Science at UMBC. <br />
@@ -44,7 +44,7 @@ He is apart of the ATOMS Lab, E-WiNS Lab and Protocol Analysis Lab where he focu
 
 Contacts: <br />
 &nbsp; &nbsp; Discord: mark_math <br />
-&nbsp; &nbsp; Email: demarkf1@umbc.edu <br />
+&nbsp; &nbsp; Email: demarkf1 at umbc dot edu <br />
 
 
 Michael Barthel is a current undergraduate student from UMBC pursuing a dual degree in Computer Science and Accounting. <br />
@@ -52,4 +52,4 @@ He has been a member of the Protocol Analysis Lab for just under a year, during 
 
 Contacts: <br />
 &nbsp; &nbsp; Discord: notthatpurevessel <br />
-&nbsp; &nbsp; Email: mbarthe1@umbc.edu <br />
+&nbsp; &nbsp; Email: mbarthe1 at umbc dot edu <br />
