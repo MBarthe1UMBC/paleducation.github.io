@@ -1,8 +1,8 @@
 # UMBC Protocol Analysis Lab Training Program
 
-Series 1: May 26th - June 18th, Time TBD, Online and in person at Location TBD
+Series 1: May 26th - June 18th, 6:00pm -- 7:00 pm, Online and in person at Location TBD
 
-Series 2: July 14th - August 6th, Times TBD, Online and in person at Location TBD
+Series 2: July 14th - August 6th, 6:00pm -- 7:00 pm, Online and in person at Location TBD
 
 &nbsp; &nbsp; &nbsp; &nbsp; UMBC’s Protocol Analysis Lab (PAL) specializes in formal program verification, which is performed here through a software tool known as the Cryptographic Protocol 
 Shapes Analyzer, or CPSA. This tool mathematically maps out computer systems and analyzes them for flaws. There is additionally a huge amount of practical research 
